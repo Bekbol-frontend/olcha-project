@@ -12,16 +12,21 @@
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin: 0px;
-    font-family: 'Roboto', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
 }
 
 p {
-    margin: 0px;
+  margin: 0px;
 }
 
 img {
@@ -55,4 +60,8 @@ li {
   width: 100%;
   margin: 0px auto;
   padding: 0px 20px;
+}
+
+.section-height {
+  min-height: 80vh;
 }

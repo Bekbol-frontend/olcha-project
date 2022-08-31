@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { Routes, Route } from "react-router-dom";
-import { Layout, About, Home, CartPage, FavoritaPage } from "./pages";
+import { Layout, Home, CartPage, FavoritaPage } from "./pages";
 
 const App: FC = () => {
   return (

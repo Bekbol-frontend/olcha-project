@@ -1,7 +1,7 @@
 import { FC } from "react";
 
 const CartPage: FC = () => {
-  return <div>CartPage</div>;
+  return <div className="section-height">CartPage</div>;
 };
 
 export default CartPage;
